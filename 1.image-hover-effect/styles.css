@@ -28,9 +28,9 @@
     transition: all 200ms ease;
 }
 
-.img-container:hover{
+/* .img-container:hover{
     
-}
+} */
 
 .img-container:hover img{
     filter: grayscale(0);
